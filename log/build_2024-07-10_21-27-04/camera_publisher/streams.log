@@ -1,0 +1,27 @@
+[0.696s] Invoking command in '/home/dhruvagarwal/camera_publisher': PYTHONPATH=/home/dhruvagarwal/camera_publisher/build/camera_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dhruvagarwal/camera_publisher/install/camera_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/camera_publisher build --build-base /home/dhruvagarwal/camera_publisher/build/camera_publisher/build install --record /home/dhruvagarwal/camera_publisher/build/camera_publisher/install.log --single-version-externally-managed install_data
+[0.880s] running egg_info
+[0.881s] writing build/camera_publisher/camera_publisher.egg-info/PKG-INFO
+[0.881s] writing dependency_links to build/camera_publisher/camera_publisher.egg-info/dependency_links.txt
+[0.881s] writing entry points to build/camera_publisher/camera_publisher.egg-info/entry_points.txt
+[0.882s] writing requirements to build/camera_publisher/camera_publisher.egg-info/requires.txt
+[0.882s] writing top-level names to build/camera_publisher/camera_publisher.egg-info/top_level.txt
+[0.883s] reading manifest file 'build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'
+[0.884s] writing manifest file 'build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'
+[0.884s] running build
+[0.885s] running build_py
+[0.885s] copying camera_publisher/camera_calibrator.py -> /home/dhruvagarwal/camera_publisher/build/camera_publisher/build/lib/camera_publisher
+[0.885s] copying camera_publisher/camera_publisher.py -> /home/dhruvagarwal/camera_publisher/build/camera_publisher/build/lib/camera_publisher
+[0.886s] running install
+[0.886s] running install_lib
+[0.886s] copying /home/dhruvagarwal/camera_publisher/build/camera_publisher/build/lib/camera_publisher/camera_calibrator.py -> /home/dhruvagarwal/camera_publisher/install/camera_publisher/lib/python3.10/site-packages/camera_publisher
+[0.887s] copying /home/dhruvagarwal/camera_publisher/build/camera_publisher/build/lib/camera_publisher/camera_publisher.py -> /home/dhruvagarwal/camera_publisher/install/camera_publisher/lib/python3.10/site-packages/camera_publisher
+[0.887s] byte-compiling /home/dhruvagarwal/camera_publisher/install/camera_publisher/lib/python3.10/site-packages/camera_publisher/camera_calibrator.py to camera_calibrator.cpython-310.pyc
+[0.888s] byte-compiling /home/dhruvagarwal/camera_publisher/install/camera_publisher/lib/python3.10/site-packages/camera_publisher/camera_publisher.py to camera_publisher.cpython-310.pyc
+[0.888s] running install_data
+[0.888s] running install_egg_info
+[0.890s] removing '/home/dhruvagarwal/camera_publisher/install/camera_publisher/lib/python3.10/site-packages/camera_publisher-0.0.0-py3.10.egg-info' (and everything under it)
+[0.890s] Copying build/camera_publisher/camera_publisher.egg-info to /home/dhruvagarwal/camera_publisher/install/camera_publisher/lib/python3.10/site-packages/camera_publisher-0.0.0-py3.10.egg-info
+[0.891s] running install_scripts
+[0.906s] Installing camera_publisher script to /home/dhruvagarwal/camera_publisher/install/camera_publisher/lib/camera_publisher
+[0.906s] writing list of installed files to '/home/dhruvagarwal/camera_publisher/build/camera_publisher/install.log'
+[0.924s] Invoked command in '/home/dhruvagarwal/camera_publisher' returned '0': PYTHONPATH=/home/dhruvagarwal/camera_publisher/build/camera_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dhruvagarwal/camera_publisher/install/camera_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/camera_publisher build --build-base /home/dhruvagarwal/camera_publisher/build/camera_publisher/build install --record /home/dhruvagarwal/camera_publisher/build/camera_publisher/install.log --single-version-externally-managed install_data
